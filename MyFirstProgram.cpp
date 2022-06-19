@@ -4,8 +4,7 @@ using namespace std;
 
 int main(){
 
-    cout<<" My name is Good Finder ";
+    cout<<"The home for all developers";
 
     return 0;
 }
-
